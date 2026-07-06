@@ -4,7 +4,7 @@
 🚀 Actively looking for **SDE Internship / Entry-Level SDE roles**
 💻 Full-stack developer — MERN stack, AI integrations, real-time systems
 
-📫 [LinkedIn](https://linkedin.com/in/thondapu-vivekchowdary-535312392) • [GitHub](https://github.com/vivekchowdarythondapu)
+📫 [LinkedIn](https://www.linkedin.com/in/vivek-chowdary-195428291/) • [GitHub](https://github.com/vivekchowdarythondapu)
 
 ---
 
